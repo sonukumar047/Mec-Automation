@@ -134,7 +134,7 @@ This project is licensed under the **MIT License**.
 ## 🙋‍♂️ Author
 
 **Sonu Kumar**  
-GitHub: [@your-username](https://github.com/sonukumar047)  
+GitHub: [https://github.com/sonukumar047]  
 Email: sonuhits047@gmail.com
 
 ---
