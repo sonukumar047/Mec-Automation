@@ -1,0 +1,44 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.env.* 
+
+# Streamlit-specific files
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Compiled code / object files
+*.o
+*.out
+*.obj
+*.so
+*.dll
+*.exe
+
+# Jupyter Notebook checkpoints (if using)
+.ipynb_checkpoints/
+
+# Misc
+*.zip
+*.tar
+*.tar.gz
